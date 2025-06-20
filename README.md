@@ -17,4 +17,4 @@ Simulation.py ——> Protein modeling and simulation
 
 library.cpp ——> Establishment and screening of Peptide Libraries
 
-For more information, please contact zhouzhi@shanghaitech.edu.cn
+For more information, please contact zhouzhi@shanghaitech.edu.cn or chenxy6@shanghaitech.edu.cn
